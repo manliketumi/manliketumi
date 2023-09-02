@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manliketumi" alt="manliketumi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/manliketumi" target="blank"><img src="https://img.shields.io/twitter/follow/manliketumi?logo=twitter&style=for-the-badge" alt="manliketumi" /></a> </p>
 
